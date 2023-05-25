@@ -1,0 +1,10 @@
+[package]
+name = "simderella"
+version = "0.0.0"
+edition = "2021"
+
+[lib]
+doctest = false
+
+[dependencies]
+criterion = "0.5.0"
